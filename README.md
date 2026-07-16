@@ -1,9 +1,3 @@
-Exit code: 0
-Wall time: 0.4 seconds
-Output:
-
-Linux aliases loaded! (ll, la, lc, catt, pd, cdd, grepp, topp, curll, whichh, uptimee, mkdirr, etc.)
-
 # 简明使用医美消费心理学
 
 > 不是劝人做，也不是劝人别做。它只解决一件事：在身体、钱和情绪都要付费的地方，把决定重新拿回自己手里。

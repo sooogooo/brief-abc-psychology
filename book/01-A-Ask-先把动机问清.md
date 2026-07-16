@@ -1,9 +1,3 @@
-Exit code: 0
-Wall time: 0.4 seconds
-Output:
-
-Linux aliases loaded! (ll, la, lc, catt, pd, cdd, grepp, topp, curll, whichh, uptimee, mkdirr, etc.)
-
 # A：先把动机问清
 
 ## 不是每一种「想变好看」都该立刻变成项目

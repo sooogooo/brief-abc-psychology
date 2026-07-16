@@ -1,9 +1,3 @@
-Exit code: 0
-Wall time: 0.3 seconds
-Output:
-
-Linux aliases loaded! (ll, la, lc, catt, pd, cdd, grepp, topp, curll, whichh, uptimee, mkdirr, etc.)
-
 # C：把代价算清楚
 
 ## 医美消费不是一笔账，是四笔账

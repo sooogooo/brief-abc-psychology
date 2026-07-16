@@ -1,9 +1,3 @@
-Exit code: 0
-Wall time: 0.4 seconds
-Output:
-
-Linux aliases loaded! (ll, la, lc, catt, pd, cdd, grepp, topp, curll, whichh, uptimee, mkdirr, etc.)
-
 # 来源与边界
 
 ## 这次整合使用了什么

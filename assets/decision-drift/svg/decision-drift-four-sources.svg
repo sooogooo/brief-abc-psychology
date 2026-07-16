@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1400" viewBox="0 0 1800 1400" role="img" aria-labelledby="title desc">
+  <title id="title">决策失重四源</title>
+  <desc id="desc">面向医美消费者的原创认知偏误导航图。四个门形区域分别是看见太多、解释太快、下手太急、回忆在改写，中心为决定失重。</desc>
+  <defs>
+    <style>
+      .bg { fill: #F7F1E8; }
+      .ink { fill: #26313F; }
+      .muted { fill: #68717A; }
+      .h1 { font: 700 64px "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; letter-spacing: 2px; }
+      .h2 { font: 700 48px "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; }
+      .body { font: 400 32px "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; }
+      .small { font: 400 30px "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; }
+      .tag { font: 700 30px "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; letter-spacing: 1px; }
+    </style>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#26313F" flood-opacity=".10"/>
+    </filter>
+  </defs>
+  <rect class="bg" width="1800" height="1400"/>
+  <text x="900" y="105" text-anchor="middle" class="ink h1">决策失重四源</text>
+  <text x="900" y="152" text-anchor="middle" class="muted body">医美消费里，决定往往不是被一个项目推着走，而是被四种认知处境同时拉扯。</text>
+  <g filter="url(#shadow)">
+    <path d="M 95 310 Q 95 252 153 252 L 760 252 Q 818 252 818 310 L 818 598 Q 818 630 786 630 L 127 630 Q 95 630 95 598 Z" fill="#E1EEE9"/>
+    <rect x="95" y="252" width="14" height="378" fill="#5E8B7E"/>
+    <text x="145" y="330" class="ink tag">01 / 信息过载</text>
+    <text x="145" y="394" class="ink h2">看见太多</text>
+    <text x="145" y="448" class="muted body">重复案例、局部缺陷和高刺激内容</text>
+    <text x="145" y="490" class="muted body">会抢走注意力。</text>
+    <text x="145" y="548" class="ink small">对应 4 篇短章，见图下文本。</text>
+    <text x="145" y="592" class="muted small">停一下：它真的更重要吗？</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <path d="M 982 310 Q 982 252 1040 252 L 1647 252 Q 1705 252 1705 310 L 1705 598 Q 1705 630 1673 630 L 1014 630 Q 982 630 982 598 Z" fill="#EFE1E7"/>
+    <rect x="982" y="252" width="14" height="378" fill="#A97892"/>
+    <text x="1032" y="330" class="ink tag">02 / 意义不足</text>
+    <text x="1032" y="394" class="ink h2">解释太快</text>
+    <text x="1032" y="448" class="muted body">案例、权威和他人的反应，</text>
+    <text x="1032" y="490" class="muted body">被补成关于自己的结论。</text>
+    <text x="1032" y="548" class="ink small">对应 7 篇短章，见图下文本。</text>
+    <text x="1032" y="592" class="muted small">停一下：我补完了什么？</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <path d="M 95 825 Q 95 767 153 767 L 760 767 Q 818 767 818 825 L 818 1113 Q 818 1145 786 1145 L 127 1145 Q 95 1145 95 1113 Z" fill="#F3E4D7"/>
+    <rect x="95" y="767" width="14" height="378" fill="#C9835A"/>
+    <text x="145" y="845" class="ink tag">03 / 行动压力</text>
+    <text x="145" y="909" class="ink h2">下手太急</text>
+    <text x="145" y="963" class="muted body">高价、限时和既有投入，</text>
+    <text x="145" y="1005" class="muted body">会压缩思考的空间。</text>
+    <text x="145" y="1063" class="ink small">对应 7 篇短章，见图下文本。</text>
+    <text x="145" y="1107" class="muted small">停一下：这是成交安排吗？</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <path d="M 982 825 Q 982 767 1040 767 L 1647 767 Q 1705 767 1705 825 L 1705 1113 Q 1705 1145 1673 1145 L 1014 1145 Q 982 1145 982 1113 Z" fill="#ECE9D6"/>
+    <rect x="982" y="767" width="14" height="378" fill="#9B9A66"/>
+    <text x="1032" y="845" class="ink tag">04 / 记忆重写</text>
+    <text x="1032" y="909" class="ink h2">回忆在改写</text>
+    <text x="1032" y="963" class="muted body">一个高峰、最近照片或既有选择，</text>
+    <text x="1032" y="1005" class="muted body">会替整段经历下结论。</text>
+    <text x="1032" y="1063" class="ink small">对应 5 篇短章，见图下文本。</text>
+    <text x="1032" y="1107" class="muted small">停一下：我在重写故事吗？</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="690" y="600" width="420" height="240" rx="32" fill="#26313F"/>
+    <text x="900" y="692" text-anchor="middle" fill="#F7F1E8" class="h2">决定失重</text>
+    <text x="900" y="744" text-anchor="middle" fill="#D5DAD7" class="body">先找出哪一扇门在推你。</text>
+  </g>
+  <text x="900" y="1288" text-anchor="middle" class="muted small">这不是诊断，也不替你决定做或不做。</text>
+</svg>
+

@@ -13,6 +13,10 @@
 - [`joanclinic`](https://github.com/sooogooo/joanclinic)：认知偏误、面诊博弈、营销影响、术后心理与理性决策。
 - `mbti-beauty-insight`、`beauty-query-genius` 与 `trust-reversal-growth`：人格化咨询、项目问询、焦虑测评和医患信任等交互产品方向。
 
+## 视觉概念参考
+
+- [*The Cognitive Bias Codex*（Wikimedia Commons）](https://commons.wikimedia.org/wiki/File:Cognitive_bias_codex_en.svg)：原图的视觉与代码设计为 John Manoogian III，组织模型为 Buster Benson，采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans)。本书只参考其「按认知困难组织偏误」的思路；没有使用、翻译或改编原 SVG、放射树、英文标签或 188 项目录。
+
 ## 没有做什么
 
 - 没有逐段复制或拼接上述仓库的原文。
@@ -20,6 +24,7 @@
 - 没有把 MBTI、颜值焦虑互动题或 AI 生成报告视为临床心理评估。
 - 没有给出个体化项目建议、诊断或治疗方案。
 - 新增的心理效应章节只使用概念作为观察工具，不把任何一种效应当成对读者动机、人格或心理状态的诊断。
+- `决策失重四源` 是本书的原创阅读导航，不是认知偏误的学术分类，也不暗示原图作者为本书背书。
 
 ## 为什么保留这份文件
 

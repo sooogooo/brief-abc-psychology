@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">看见太多</title>
+  <desc id="desc">医美消费中的信息过载：案例、局部缺陷和重复内容如何占满注意力。</desc>
+  <rect width="1600" height="1000" fill="#F7F1E8"/>
+  <rect x="86" y="90" width="18" height="720" fill="#5E8B7E"/>
+  <text x="150" y="170" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32" font-weight="700" letter-spacing="2">01 / 信息过载</text>
+  <text x="150" y="252" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="64" font-weight="700">看见太多</text>
+  <text x="150" y="310" fill="#68717A" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">内容很多时，大脑不会逐条判断，只会先抓住显眼、重复和刺眼的东西。</text>
+  <g transform="translate(150 405)">
+    <rect width="340" height="90" rx="45" fill="#DCEBE5"/><text x="36" y="57" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">可得性</text>
+    <rect x="370" width="340" height="90" rx="45" fill="#DCEBE5"/><text x="406" y="57" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">负面偏好</text>
+    <rect y="120" width="340" height="90" rx="45" fill="#DCEBE5"/><text x="36" y="177" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">确认偏误</text>
+    <rect x="370" y="120" width="340" height="90" rx="45" fill="#DCEBE5"/><text x="406" y="177" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">重复曝光</text>
+  </g>
+  <path d="M 1030 390 h 290 v 260 h -290 z" fill="#5E8B7E" opacity=".14"/>
+  <path d="M 1070 430 h 210 v 180 h -210 z" fill="none" stroke="#5E8B7E" stroke-width="8"/>
+  <circle cx="1175" cy="520" r="48" fill="#5E8B7E" opacity=".55"/>
+  <text x="150" y="760" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="34" font-weight="700">停顿一句</text>
+  <text x="150" y="822" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="42">「我看到得多，还是它真的更重要？」</text>
+  <text x="150" y="900" fill="#68717A" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">把案例降成问题清单，回到适合自己的信息与专业沟通。</text>
+</svg>
+

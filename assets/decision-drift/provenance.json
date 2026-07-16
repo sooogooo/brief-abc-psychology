@@ -1,0 +1,72 @@
+{
+  "asset_set": "decision-drift",
+  "conceptual_reference": {
+    "title": "The Cognitive Bias Codex",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Cognitive_bias_codex_en.svg",
+    "original_license": "CC BY-SA 4.0",
+    "relationship": "Conceptual reference only. The project assets are not a translation or adaptation of the original SVG."
+  },
+  "raster_assets": [
+    {
+      "requested_model": "gpt-image-2 requested by the user through the ChatGPT subscription route",
+      "execution_path": "Codex built-in image generation",
+      "returned_model_or_snapshot": "not returned by tool",
+      "size": "1254x1254",
+      "quality": "not exposed by built-in tool",
+      "prompt": "Original square editorial illustration: four translucent architectural doorways in a calm 2x2 spatial arrangement around a small central hand mirror; warm ivory paper, charcoal linework, paper-cut collage; balanced accents #5E8B7E, #A97892, #C9835A and #9B9A66; no words, letters, numbers, logos, watermark, people, faces, medical procedure, before-and-after framing, ideal-face ranking, countdown, price tags, radial dendrogram, concentric rings, or Cognitive Bias Codex imitation.",
+      "filename": "decision-drift-four-sources.png",
+      "sha256": "cc220a73031fc23e0642d1f5ba7eed78bcb5c05269e93cb0321decd8d8eabc05",
+      "created_at": "2026-07-16T07:23:27Z",
+      "edits_or_resamples": "none"
+    },
+    {
+      "requested_model": "gpt-image-2 requested by the user through the ChatGPT subscription route",
+      "execution_path": "Codex built-in image generation",
+      "returned_model_or_snapshot": "not returned by tool",
+      "size": "1254x1254",
+      "quality": "not exposed by built-in tool",
+      "prompt": "Original square editorial illustration: an empty standing mirror surrounded at the edges by blank cropped image cards, blank review-card shapes, repeated translucent fragments and abstract dots; warm ivory paper, charcoal linework, paper-cut collage; #5E8B7E as the only dominant accent; no marks on cards and no words, letters, numbers, logos, watermark, people, faces, medical procedure, before-and-after framing, ideal-face ranking, countdown, price tags, radial diagram, concentric rings, or Cognitive Bias Codex imitation.",
+      "filename": "information-overload.png",
+      "sha256": "520f765c37a78275f7d2c0842bcdf5e614207fef8171c3b4a5e4c99d49202412",
+      "created_at": "2026-07-16T07:23:27Z",
+      "edits_or_resamples": "none"
+    },
+    {
+      "requested_model": "gpt-image-2 requested by the user through the ChatGPT subscription route",
+      "execution_path": "Codex built-in image generation",
+      "returned_model_or_snapshot": "not returned by tool",
+      "size": "1254x1254",
+      "quality": "not exposed by built-in tool",
+      "prompt": "Original square editorial illustration: incomplete abstract cut-paper profile forms near a mirror, with a few fine charcoal threads linking separate geometric clues into an overly complete-looking story; warm ivory paper, charcoal linework, paper-cut collage; #A97892 as the only dominant accent; no recognisable person or face and no words, letters, numbers, logos, watermark, medical procedure, before-and-after framing, ideal-face ranking, countdown, price tags, radial diagram, concentric rings, or Cognitive Bias Codex imitation.",
+      "filename": "meaning-gap.png",
+      "sha256": "794011ca9c198129ae80a9db829b8c404d58d8a1030f8c6c38bc5c5067974ce8",
+      "created_at": "2026-07-16T07:23:27Z",
+      "edits_or_resamples": "none"
+    },
+    {
+      "requested_model": "gpt-image-2 requested by the user through the ChatGPT subscription route",
+      "execution_path": "Codex built-in image generation",
+      "returned_model_or_snapshot": "not returned by tool",
+      "size": "1254x1254",
+      "quality": "not exposed by built-in tool",
+      "prompt": "Original square editorial illustration: one paper-cut hand pausing before a narrow clay-colored doorway with a soft glow beyond it; a blank wallet shape, unmarked calendar-block shape and empty recovery chair stay in the background; warm ivory paper, charcoal linework, paper-cut collage; #C9835A as the only dominant accent; no words, letters, numbers, logos, watermark, people, faces, medical procedure, before-and-after framing, ideal-face ranking, countdown, price tags, radial diagram, concentric rings, or Cognitive Bias Codex imitation.",
+      "filename": "urgency-pressure.png",
+      "sha256": "fbcc4bf5a9a0bcf642eb1b9966ede082976bb11c989ca6412e8938171220e79a",
+      "created_at": "2026-07-16T07:23:27Z",
+      "edits_or_resamples": "none"
+    },
+    {
+      "requested_model": "gpt-image-2 requested by the user through the ChatGPT subscription route",
+      "execution_path": "Codex built-in image generation",
+      "returned_model_or_snapshot": "not returned by tool",
+      "size": "1254x1254",
+      "quality": "not exposed by built-in tool",
+      "prompt": "Original square editorial illustration: five blank photo-card shapes rearranged by one paper-cut hand around a small standing mirror, with one vivid mustard-olive card and four softened translucent cards; warm ivory paper, charcoal linework, paper-cut collage; #9B9A66 as the only dominant accent; cards contain no people, faces, words or marks; no logos, watermark, medical procedure, before-and-after framing, ideal-face ranking, countdown, price tags, radial diagram, concentric rings, or Cognitive Bias Codex imitation.",
+      "filename": "memory-rewrite.png",
+      "sha256": "d5721fac933a301384db68f2c66f3ba3bb2f2bc6c95c6b236d5eac8689410f87",
+      "created_at": "2026-07-16T07:23:27Z",
+      "edits_or_resamples": "none"
+    }
+  ]
+}
+

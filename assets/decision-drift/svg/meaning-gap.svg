@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">解释太快</title>
+  <desc id="desc">医美消费中的意义不足：人如何将案例、权威和他人的态度补成自己的结论。</desc>
+  <rect width="1600" height="1000" fill="#F7F1E8"/>
+  <rect x="86" y="90" width="18" height="720" fill="#A97892"/>
+  <text x="150" y="170" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32" font-weight="700" letter-spacing="2">02 / 意义不足</text>
+  <text x="150" y="252" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="64" font-weight="700">解释太快</text>
+  <text x="150" y="310" fill="#68717A" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">信息不完整时，人会用熟悉的故事、他人的选择和权威感把空白补满。</text>
+  <g transform="translate(150 405)">
+    <rect width="300" height="90" rx="45" fill="#F0E0E7"/><text x="36" y="57" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">社会比较</text>
+    <rect x="330" width="300" height="90" rx="45" fill="#F0E0E7"/><text x="366" y="57" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">聚光灯</text>
+    <rect x="660" width="300" height="90" rx="45" fill="#F0E0E7"/><text x="696" y="57" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">光环效应</text>
+    <rect y="120" width="300" height="90" rx="45" fill="#F0E0E7"/><text x="36" y="177" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">社会认同</text>
+    <rect x="330" y="120" width="300" height="90" rx="45" fill="#F0E0E7"/><text x="366" y="177" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">框架效应</text>
+    <rect x="660" y="120" width="300" height="90" rx="45" fill="#F0E0E7"/><text x="696" y="177" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">代表性</text>
+    <rect y="240" width="300" height="90" rx="45" fill="#F0E0E7"/><text x="36" y="297" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">权威偏误</text>
+  </g>
+  <path d="M 1170 390 l 170 130 -170 130 -170 -130 z" fill="#A97892" opacity=".25"/>
+  <path d="M 1170 435 l 108 85 -108 85 -108 -85 z" fill="none" stroke="#A97892" stroke-width="8"/>
+  <text x="150" y="760" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="34" font-weight="700">停顿一句</text>
+  <text x="150" y="822" fill="#26313F" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="42">「我知道了什么，又替它补完了什么？」</text>
+  <text x="150" y="900" fill="#68717A" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="32">把「这一定适合我」改写成一个需要被证据回答的问题。</text>
+</svg>
+
